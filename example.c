@@ -10,7 +10,7 @@ void main () {
 
 void loop (char data){
     while (1){
-        data="Something";
+        data="Something Else";
     }
 
 
